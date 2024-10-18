@@ -1,5 +1,6 @@
-# [Tutorial] RubysAdventure2DSample 新手練習專案
-開始玩: [itch.io]()
+# [Practice] RubysAdventure2DSample 新手練習專案
+
+開始玩: [itch.io](https://orewachuuni.itch.io/practice-rubys-adventure-2d-sample)
 
 試玩影片: [Youtube]()
 
