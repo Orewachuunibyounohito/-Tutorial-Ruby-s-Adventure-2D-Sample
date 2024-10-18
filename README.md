@@ -1,1 +1,1 @@
-# -Tutorial-Ruby-s-Adventure-2D-Sample
+# [Tutorial] RubysAdventure2DSample 新手練習專案
