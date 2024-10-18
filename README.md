@@ -2,6 +2,6 @@
 
 開始玩: [itch.io](https://orewachuuni.itch.io/practice-rubys-adventure-2d-sample)
 
-試玩影片: [Youtube]()
+試玩影片: [Youtube](https://youtu.be/P2g3iDPA6wo)
 
 Devlog: [Notion](https://chalk-wedge-e02.notion.site/Ruby-2D-1239f6c2dc798020a4e9dc0b4e193c7b)
